@@ -27,7 +27,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereumfair/go-ethereum/common"
+	"github.com/ethereum/go-ethereum/common"
 )
 
 func init() {

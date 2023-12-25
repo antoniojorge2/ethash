@@ -17,7 +17,7 @@
 package ethash
 
 import (
-	"github.com/ethereumfair/go-ethereum/common"
+	"github.com/ethereum/go-ethereum/common"
 	"math/big"
 )
 
